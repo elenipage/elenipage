@@ -1,4 +1,13 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/7e/a1/40/7ea140c0e01a7f981782d3cabc72d373.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/564x/47/c9/47/47c947cfd20f2ee662ee9da6efd72532.jpg">
+ <img alt="animated ducks in a bathhouse" src="https://i.pinimg.com/564x/47/c9/47/47c947cfd20f2ee662ee9da6efd72532.jpg">
+</picture>
+
+# Hello! I'm Eleni. ✨🦦🧋
+
+- I'm currently doing a software development bootcamp with Northcoders 👩🏼‍🏫
+- I'm learning JavaScript as my first language 🍼
 
 <!--
 **elenipage/elenipage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
