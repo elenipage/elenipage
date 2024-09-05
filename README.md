@@ -4,10 +4,12 @@
  <img alt="animated ducks in a bathhouse" src="https://i.pinimg.com/564x/47/c9/47/47c947cfd20f2ee662ee9da6efd72532.jpg">
 </picture>
 
-# Hello! I'm Eleni. ✨🦦🧋
+# Hello! I'm Eleni. ✨🦦☕️
 
 - I'm currently doing a software development bootcamp with Northcoders 👩🏼‍🏫
 - I'm learning JavaScript as my first language 🍼
+
+[![Eleni's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenipage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **elenipage/elenipage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
