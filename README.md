@@ -6,8 +6,31 @@
 
 # Hello! I'm Eleni. ✨🦦☕️
 
-- I'm currently doing a software development bootcamp with Northcoders 👩🏼‍🏫
-- I'm learning JavaScript as my first language 🍼
+- 🌟 Full-Stack Developer passionate about creating impactful, user-friendly applications.
+- 🚀 Recently graduated from Northcoders' JavaScript Bootcamp.
+
+#### Languages and Tools <br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,postgres,react,express,supabase,github,npm,vscode,sass,regex,figma,notion)](https://skillicons.dev)
+
+#### Projects
+- 🌍 EcoXp: Gamified recycling app to encourage eco-friendly habits through quizzes, XP tracking, and social engagement.
+- 📰 News App: Full-stack platform for accessing and managing articles, comments, and votes.
+
+#### Passion Projects
+- 🎮 Indie game design enthusiast; inspired by Nintendo games like The Legend of Zelda.
+- ✨ Crafting apps with a focus on social change, gamification, and fun user experiences.
+
+#### Other Interests
+- 📸 Travel Photographer who loves capturing moments.
+- 🧩 Creative thinker with a love for design, crafts, and pixel art.
+
+
+---
+
+#### 📫 How to reach me: 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="7.5%"/>](https://www.linkedin.com/in/eleni-page/)
+  
+---
 
 [![Eleni's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenipage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
