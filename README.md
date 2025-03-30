@@ -10,9 +10,8 @@
 - 🚀 Recently graduated from Northcoders' JavaScript Bootcamp.
 
 #### Passion Projects
-- 🎮 Indie game design enthusiast; inspired by Nintendo games like The Legend of Zelda.
 - ✨ Crafting apps with a focus on social impact and gamification.
-- 💡 Learning C# and Python.
+- 💡 Learning Python.
   
 #### Languages and Tools <br />
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,postgres,react,express,supabase,github,npm,vscode,sass,regex,figma,notion)](https://skillicons.dev)
